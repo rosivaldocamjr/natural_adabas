@@ -1,5 +1,13 @@
 # Instalação, Configuração e Material da linguagem Natural e o banco de dados Adabas
-* Apostilas grátis para baixar de Natural & Adabas
+## Apostilas Grátis de Natural & Adabas
+* [88 Exemplos Práticos de Natural & Adabas](https://github.com/rosivaldocamjr/natural_adabas/blob/main/88_Exemplos_Praticos_Natural_Adabas.pdf)
+* [Apostila Avançada de Natural & Adabas](https://github.com/rosivaldocamjr/natural_adabas/blob/main/Apostila_Avan%C3%A7ada_Natural_Adabas.pdf)
+* [Curso Natural & Adabas por Marcio Amoedo](https://github.com/rosivaldocamjr/natural_adabas/blob/main/Curso_Natural_Adabas_Marcio_Amoedo.pdf)
+* [Apostila Natural & Adabas da Consist](https://github.com/rosivaldocamjr/natural_adabas/blob/main/Curso_Natural_Consist.pdf)
+* [Natural & Adabas Avancado - Luciano Perdigão](https://github.com/rosivaldocamjr/natural_adabas/blob/main/Natural_Avancado_Luciano_Perdigao.pdf)
+* [Natural & Adabas Basico - Luciano Perdigão](https://github.com/rosivaldocamjr/natural_adabas/blob/main/Natural_Basico_Luciano_Perdigao.pdf)
+## Instalação e Configuração da IDE NaturalONE Community Edition
+* [Instalação e Configuração do NaturalONE Community](https://github.com/rosivaldocamjr/natural_adabas/blob/main/Instala%C3%A7%C3%A3o%20e%20configura%C3%A7%C3%A3o%20NaturalONE%20Community.pdf)
 ## Instalador da IDE NaturalONE Full Edition
 https://office365prodam-my.sharepoint.com/:u:/g/personal/rosivaldo_junior_prodam_am_gov_br/EZChlXw5a9VBjAHyBK9sj5EBN-q5YUdCfIaGFHGDMOfzPQ?e=mxeTrf
 ## Playlists de Natural e Adabas do Canal Software Ag
